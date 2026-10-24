@@ -1,0 +1,44 @@
+﻿sample_id,text,label,split,removal_reason,retained_sample_id
+6710056_gab,teacher asks class where is pakistan little johnny replies outside with paki steve,normal,test,conflicting_labels,
+1178818457112104962_twitter,<user> i fucking hate you,normal,test,conflicting_labels,
+1178861841780559872_twitter,<user> i fucking hate you,normal,test,conflicting_labels,
+1193293522142547968_twitter,<user> i hate you,normal,train,conflicting_labels,
+1278613802464931841_twitter,<user> i hate you,hate,train,conflicting_labels,
+1089320840620134400_twitter,<user> i hate you,normal,train,conflicting_labels,
+1204096845514981384_twitter,<user> i hate you,normal,train,conflicting_labels,
+1092620747015680000_twitter,<user> i hate you,hate,train,conflicting_labels,
+1257365940737585152_twitter,<user> i hate you,offensive,train,conflicting_labels,
+1125772131588087809_twitter,<user> i hate you 😂,offensive,train,conflicting_labels,
+1178324235716087810_twitter,<user> i hate you,hate,train,conflicting_labels,
+3572917_gab,teacher asks class where is pakistan little johnny replies outside with paki steve,offensive,train,conflicting_labels,
+1194994723490029569_twitter,<user> i hate you,normal,train,conflicting_labels,
+1078045507065393158_twitter,i hate you,offensive,train,conflicting_labels,
+1224156557350461446_twitter,<user> i hate you,normal,train,conflicting_labels,
+1164882409952858116_twitter,<user> i hate you 😂,normal,train,conflicting_labels,
+1178330971004751872_twitter,<user> ching chong,offensive,train,conflicting_labels,
+1188512615405887494_twitter,<user> i hate you,normal,train,conflicting_labels,
+1095439403202166784_twitter,<user> i hate you,normal,train,conflicting_labels,
+1106585275340333056_twitter,<user> i hate you,normal,train,conflicting_labels,
+1079951197480439808_twitter,<user> i hate you,offensive,train,conflicting_labels,
+1178963159907852288_twitter,<user> ching chong,hate,train,conflicting_labels,
+1227692091393937410_twitter,<user> i fucking hate you,offensive,train,conflicting_labels,
+1098037740980064258_twitter,i hate you,normal,train,conflicting_labels,
+1077513363154976770_twitter,<user> y are u focusing on that when nazis exist,normal,validation,duplicate_text,1195959027525726209_twitter
+1109305658980122629_twitter,<user> ok buddy retard,offensive,train,duplicate_text,1103085686524166145_twitter
+11368631_gab,two gay guys living together and pooling their resources you know have more resources also before everygaycouple started adopting non verbal special needs niglet boys none cared about the quality of schools the only gays i know that adopted a girl other than on modern family adopted a niece,normal,train,duplicate_text,11368611_gab
+1161364810765918214_twitter,cause these niggas pussy and i am hard,normal,train,duplicate_text,1122649694574907393_twitter
+1172986514147381249_twitter,<user> are you a fucking retard,offensive,train,duplicate_text,1171620659996319744_twitter
+1178071277262852097_twitter,niggas acting like bitches,offensive,train,duplicate_text,1091028304025419776_twitter
+1178749588217327616_twitter,i love the muslim unity amongst islamic nations how come they did not take in even one muslim refugee 🤔,normal,train,duplicate_text,1178615755295690756_twitter
+1178899405115707392_twitter,<user> i fucking hate you 😂 😂 😂,normal,train,duplicate_text,1178844885715181569_twitter
+1179068221074358277_twitter,<user> it okay to be white,normal,train,duplicate_text,1179038788711895042_twitter
+1179091164432986114_twitter,<user> i fucking hate you 😂,normal,train,duplicate_text,1178951876349267968_twitter
+1184411429132263424_twitter,<user> <user> are you retarded,offensive,train,duplicate_text,1107036788005179392_twitter
+1203540995377225728_twitter,<user> y are u focusing on that when nazis exist,normal,train,duplicate_text,1195959027525726209_twitter
+1207741179795783680_twitter,<user> y are u focusing on that when nazis exist,normal,train,duplicate_text,1195959027525726209_twitter
+1264228895827480576_twitter,<user> <number> bank islam,normal,train,duplicate_text,1264198113834618881_twitter
+1264509142451941376_twitter,<user> <number> bank islam,normal,train,duplicate_text,1264198113834618881_twitter
+15217969_gab,karma is a bitch,normal,train,duplicate_text,1179026964486742017_twitter
+15424010_gab,jury in the katie stienle trial just let the piece of shit off not guilty of murder vigilante justice needs to make a come back in a big way if there going to let murdering beaners walk the streets,hate,train,duplicate_text,15415739_gab
+18128754_gab,greatest hope for mankind is to reach out to muslims who have not yet been enlisted to violence,normal,train,duplicate_text,17108244_gab
+26337318_gab,being different is a crime according to the left and i would assume there muzzie friends follow the same retarded narrative individual autonomy is going extinct brace yourselves political correctness,offensive,train,duplicate_text,26325611_gab
